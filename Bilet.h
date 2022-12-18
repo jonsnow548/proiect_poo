@@ -1,9 +1,4 @@
-//
-// Created by stoic on 18.12.2022.
-//
 
-#ifndef POPI_OOP_BILET_H
-#define POPI_OOP_BILET_H
 
 #include <string>
 
@@ -62,4 +57,4 @@ public:
 
 
 
-#endif //POPI_OOP_BILET_H
+
