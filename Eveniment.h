@@ -1,9 +1,3 @@
-//
-// Created by stoic on 18.12.2022.
-//
-
-#ifndef POPI_OOP_EVENIMENT_H
-#define POPI_OOP_EVENIMENT_H
 
 using namespace std;
 
@@ -44,4 +38,4 @@ public:
 };
 
 
-#endif //POPI_OOP_EVENIMENT_H
+
